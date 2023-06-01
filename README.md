@@ -1,2 +1,2 @@
 # challenge_rust
-asd
+asdr
